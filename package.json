@@ -1,0 +1,20 @@
+{
+  "name": "seqburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASK-13/seqburger.git"
+  },
+  "author": "mm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASK-13/seqburger/issues"
+  },
+  "homepage": "https://github.com/MASK-13/seqburger#readme"
+}
